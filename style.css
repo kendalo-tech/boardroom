@@ -3,7 +3,7 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  bs-light-rgb: 146, 146, 145;
+  --bs-light-rgb: 146, 146, 145;
 }
 
 .navbar{
