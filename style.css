@@ -1,9 +1,10 @@
 body {
   background-image: url("https://courses.ics.hawaii.edu/ics314s23/morea/ui-frameworks/wod-boardroom-background.jpg");
-  background-repeat: no-repeat;
+
   background-position: center;
   background-size: cover;
   --bs-light-rgb: 146, 146, 145;
+
 }
 
 .navbar{
@@ -12,7 +13,7 @@ body {
 }
 
 #center{
-  margin-left: 450px;
+  margin-left: 550px;
   margin-top: 150px;
   margin-bottom: 130px;
 }
@@ -22,9 +23,9 @@ body {
   font-size: 20px;
 }
 
-.footer{
- padding-bottom: 5px;
-
+footer{
+position: absolute;
+  width:100%;
 }
 
 #firstcol{
